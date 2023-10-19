@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<html>
+
+ <head>
+<meta charset="utf-8">
+<title>Weddings Vendors - Wedding photographers – matrimonysoftware.in</title>
+<!-- Stylesheets -->
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="css/main.css" rel="stylesheet">
+<link href="css/responsive.css" rel="stylesheet">
+
+<link rel="shortcut icon" href="../images/favicon.png" type="image/x-icon">
+<link rel="icon" href="../images/favicon.png" type="image/x-icon">
+
+<!-- Responsive -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<style>
+@media screen and (max-width: 768px) {
+	html{
+		overflow-x:hidden;
+	}
+	
+}
+@media screen and (max-width: 568px) {
+	html{
+		overflow-x:hidden;
+	}
+}
+</style>
+</head>
+
+<body>
+
+<div class="page-wrapper">
+ 	
+    <!-- Preloader -->
+    <div class="preloader"></div>
+ 	
+    <!-- Main Header-->
+       <header class="main-header header-style-one">
+    	
+    	<!--Header-Upper-->
+        <div class="header-upper">
+        	<div class="auto-container">
+            	<div class="clearfix">
+                	
+                	<div class="pull-left logo-box">
+                    	<div class="logo"><a href="index"><img src="../images/logo.png" alt="Logo" title="Logo"></a></div>
+                    </div>
+                   	
+					<!-- Submit Add -->
+					
+                   	<div class="nav-outer clearfix">
+						<!-- Mobile Navigation Toggler -->
+                        <div class="mobile-nav-toggler"><span class="icon flaticon-menu"></span></div>
+						<!-- Main Menu -->
+						<nav class="main-menu navbar-expand-md">
+							<div class="navbar-header">
+								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+								</button>
+							</div>
+
+							<div class="navbar-collapse show collapse clearfix" id="navbarSupportedContent">
+								<ul class="navigation clearfix">
+									<li><a href="index">Home</a></li>
+									<li class="dropdown"><a href="aboutus">About us</a>
+									<ul>
+									        <li><a href="aboutus">About Us</a></li>
+											<li><a href="terms">User Terms</a></li>
+											<li><a href="contact">Contact US</a></li>
+														
+											
+										</ul>
+									</li>
+									<li class="dropdown"><a href="#">Vendor</a>
+										<ul>
+										                                 <li><a href="search_result1?cat=Wedding Planner"> Wedding Planner</a></li>										                                    <li><a href="search_result1?cat=Beauty and Makup"> Beauty and Makup</a></li>										                                    <li><a href="search_result1?cat=Wedding Venues"> Wedding Venues</a></li>										                                    <li><a href="search_result1?cat=Mehndi Artist"> Mehndi Artist</a></li>										                                    <li><a href="search_result1?cat=Caterers                     "> Caterers                     </a></li>										                                    <li><a href="search_result1?cat=Music"> Music</a></li>										                                    <li><a href="search_result1?cat=Hotel Accommodation"> Hotel Accommodation</a></li>										                                    <li><a href="search_result1?cat=Honeymoon Package"> Honeymoon Package</a></li>										                                    <li><a href="search_result1?cat=Wedding Prist"> Wedding Prist</a></li>										                                    <li><a href="search_result1?cat=Wedding Cards"> Wedding Cards</a></li>										                                    <li><a href="search_result1?cat=Jewellery"> Jewellery</a></li>										                                    <li><a href="search_result1?cat=Wedding Photographer"> Wedding Photographer</a></li>										                                    <li><a href="search_result1?cat=Rangoli "> Rangoli </a></li>										                                    <li><a href="search_result1?cat=Banjo"> Banjo</a></li>										                                    <li><a href="search_result1?cat=Biodata"> Biodata</a></li>										    												
+											
+										</ul>
+									</li>
+									
+									<li><a href="contact">Contact us</a></li>
+								</ul>
+							</div>
+							
+						</nav>
+						
+						<!-- Outer Box -->
+						<div class="outer-box">
+							<ul class="login-info">
+								<li><a href="register">Register </a></li>
+								<li><a href="login"><span class="icon flaticon-user-3"></span>Login</a></li>
+							</ul>
+						</div>
+						
+					</div>
+                   
+                </div>
+            </div>
+        </div>
+        <!--End Header Upper-->
+        
+		<!-- Mobile Menu  -->
+        <div class="mobile-menu">
+            <div class="menu-backdrop"></div>
+            <div class="close-btn"><span class="icon fa fa-remove"></span></div>
+            
+            <nav class="menu-box">
+                <div class="nav-logo"><a href="index.html"><img src="images/logo-2.png" alt="" title=""></a></div>
+                <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
+				</div>
+				<a href="register" class="btn-style-one ml-2 mt-2"><span class="btn-title">Register </span></a>
+				<a href="login" class="btn-style-one ml-2 mt-2"><span class="btn-title">Login </span></a>
+            </nav>
+        </div><!-- End Mobile Menu -->
+		
+    </header>    <!--End Main Header -->
+	
+	<!-- Banner Section -->
+    <section class="banner-section">
+        <div class="banner-carousel owl-theme owl-carousel">
+            <!-- Slide Item -->
+            <div class="slide-item">
+            	<div class="image-layer" style="background-image:url(images/main-slider/1.jpg)"></div>
+
+                <div class="auto-container">
+                    <div class="content-box">
+                        <h1>Wedding Made Easy.Hire the Best Vendors Team. </h1>
+                        <div class="btn-box"><a href="register" class="theme-btn btn-style-one"><span class="txt">Start Selling</span></a></div>
+                    </div>  
+                </div>
+            </div>
+
+            <!-- Slide Item -->
+            <div class="slide-item">
+            	<div class="image-layer" style="background-image:url(images/main-slider/2.jpg)"></div>
+                <div class="auto-container">
+                    <div class="content-box">
+                        <h1>Catch Your Wedding Vendors Instantly. </h1>
+                        <div class="btn-box"><a href="register" class="theme-btn btn-style-one"><span class="txt">Start Selling</span></a></div>
+                    </div>  
+                </div>
+            </div>
+			
+			<!-- Slide Item -->
+            <div class="slide-item">
+            	<div class="image-layer" style="background-image:url(images/main-slider/3.jpg)"></div>
+                <div class="auto-container">
+                    <div class="content-box">
+                        <h1>Our all Vendors Offering Discount for here only. </h1>
+                        <div class="btn-box"><a href="register" class="theme-btn btn-style-one"><span class="txt">Start Selling</span></a></div>
+                    </div>  
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--End Banner Section -->
+	
+	<!-- Keyword Section -->
+	<section class="keyword-section">
+		<div class="auto-container">
+			<div class="inner-container margin-top">
+				
+				<!-- Default Form -->
+				<div class="default-form">
+					<form method="post" action="search_result">
+						<div class="row clearfix">
+						
+							<!-- Form Group -->
+						
+							
+							<!-- Form Group -->
+							<div class="form-group col-lg-3 col-md-6 col-sm-12">
+								<select class="custom-select-box" name="wedsloction">
+									 <option value="" selected>Any</option>
+										 										   <option value="Delhi"> Delhi</option>
+										    										   <option value="Noida"> Noida</option>
+										    										   <option value="Gurgoan"> Gurgoan</option>
+										    										   <option value="Pune"> Pune</option>
+										    										   <option value="Mumbai"> Mumbai</option>
+										    										   <option value="Sangli"> Sangli</option>
+										    										   <option value="Kolhapur"> Kolhapur</option>
+										    										   <option value="Aurangabad"> Aurangabad</option>
+										    										   <option value="Nashik"> Nashik</option>
+										    										   <option value="Vardha"> Vardha</option>
+										    								</select>
+							</div>
+							
+							<!-- Form Group -->
+							<div class="form-group col-lg-6 col-md-6 col-sm-12">
+								<select class="custom-select-box" name="catagory">
+									 <option value="" selected>Any</option>
+										 										   <option value="Wedding Planner"> Wedding Planner</option>
+										    										   <option value="Beauty and Makup"> Beauty and Makup</option>
+										    										   <option value="Wedding Venues"> Wedding Venues</option>
+										    										   <option value="Mehndi Artist"> Mehndi Artist</option>
+										    										   <option value="Caterers                     "> Caterers                     </option>
+										    										   <option value="Music"> Music</option>
+										    										   <option value="Hotel Accommodation"> Hotel Accommodation</option>
+										    										   <option value="Honeymoon Package"> Honeymoon Package</option>
+										    										   <option value="Wedding Prist"> Wedding Prist</option>
+										    										   <option value="Wedding Cards"> Wedding Cards</option>
+										    										   <option value="Jewellery"> Jewellery</option>
+										    										   <option value="Wedding Photographer"> Wedding Photographer</option>
+										    										   <option value="Rangoli "> Rangoli </option>
+										    										   <option value="Biodata"> Biodata</option>
+										    								 </select>
+             
+							 
+						
+							</div>
+							
+							<div class="form-group col-lg-3 col-md-12 col-sm-12">
+								<a href="weddingdirectory?text= "><button type="submit" class="theme-btn btn-style-two"><span class="txt">Search</span></button></a>
+							</div>
+							
+						</div>
+					</form>
+				</div>
+				
+			</div>
+		</div>
+	</section>
+	
+	
+	<!-- Advertise Section Three -->
+	<section class="advertise-section-three">
+		<!-- Layers Box -->
+		<div class="layers-box">
+			<div class="layer-one" style="background-image: url(images/background/pattern-1.png)"></div>
+			<div class="layer-two" style="background-image: url(images/background/pattern-1.png)"></div>
+			<div class="layer-three" style="background-image: url(images/background/pattern-2.png)"></div>
+		</div>
+		<div class="auto-container">
+			<div class="sec-title centered">
+				<h2>Browse Vendors by Category</h2>
+				<div class="text">Choose from over 10000+ vendors across India</div>
+			</div>
+			
+			<div class="single-item-carousel owl-carousel owl-theme">
+			
+				<div class="slide">
+					<div class="row clearfix">
+						   						<!-- Add Block Two -->
+						<div class="add-block-two col-lg-3 col-md-12 col-sm-12">
+							<div class="">
+								<div class="image">
+									
+									<!-- <a href="weddingdirectory?text=Mehndi Artist"><img src="https://matrimonysoftware.in/photoprocess.php?image=console/gallery-images/2021_05_03_09_53_23MehndiArtist.jpg&square=300" alt="abcd" /></a> -->
+									<a href="weddingdirectory?text=Mehndi Artist"><img src="https://matrimonysoftware.in/console/gallery-images/2021_05_03_09_53_23MehndiArtist.jpg" alt="abcd" /></a>
+								</div>
+								<!-- Content Column -->
+								<div class="lower-content">
+									<h4><a href="weddingdirectory?text=Mehndi Artist">Mehndi Artist</a></h4>
+									
+								</div>
+							</div>
+						</div>
+							 						<!-- Add Block Two -->
+						<div class="add-block-two col-lg-3 col-md-12 col-sm-12">
+							<div class="">
+								<div class="image">
+									
+									<!-- <a href="weddingdirectory?text=Caterers                     "><img src="https://matrimonysoftware.in/photoprocess.php?image=console/gallery-images/2021_05_03_09_53_31Caterers.jpg&square=300" alt="abcd" /></a> -->
+									<a href="weddingdirectory?text=Caterers                     "><img src="https://matrimonysoftware.in/console/gallery-images/2021_05_03_09_53_31Caterers.jpg" alt="abcd" /></a>
+								</div>
+								<!-- Content Column -->
+								<div class="lower-content">
+									<h4><a href="weddingdirectory?text=Caterers                     ">Caterers                     </a></h4>
+									
+								</div>
+							</div>
+						</div>
+							 						<!-- Add Block Two -->
+						<div class="add-block-two col-lg-3 col-md-12 col-sm-12">
+							<div class="">
+								<div class="image">
+									
+									<!-- <a href="weddingdirectory?text=Music"><img src="https://matrimonysoftware.in/photoprocess.php?image=console/gallery-images/2021_05_03_09_53_39Music.jpg&square=300" alt="abcd" /></a> -->
+									<a href="weddingdirectory?text=Music"><img src="https://matrimonysoftware.in/console/gallery-images/2021_05_03_09_53_39Music.jpg" alt="abcd" /></a>
+								</div>
+								<!-- Content Column -->
+								<div class="lower-content">
+									<h4><a href="weddingdirectory?text=Music">Music</a></h4>
+									
+								</div>
+							</div>
+						</div>
+							 						<!-- Add Block Two -->
+						<div class="add-block-two col-lg-3 col-md-12 col-sm-12">
+							<div class="">
+								<div class="image">
+									
+									<!-- <a href="weddingdirectory?text=Hotel Accommodation"><img src="https://matrimonysoftware.in/photoprocess.php?image=console/gallery-images/2021_05_03_09_53_50HotelAccommodation.jpg&square=300" alt="abcd" /></a> -->
+									<a href="weddingdirectory?text=Hotel Accommodation"><img src="https://matrimonysoftware.in/console/gallery-images/2021_05_03_09_53_50HotelAccommodation.jpg" alt="abcd" /></a>
+								</div>
+								<!-- Content Column -->
+								<div class="lower-content">
+									<h4><a href="weddingdirectory?text=Hotel Accommodation">Hotel Accommodation</a></h4>
+									
+								</div>
+							</div>
+						</div>
+							 						<!-- Add Block Two -->
+						<div class="add-block-two col-lg-3 col-md-12 col-sm-12">
+							<div class="">
+								<div class="image">
+									
+									<!-- <a href="weddingdirectory?text=Jewellery"><img src="https://matrimonysoftware.in/photoprocess.php?image=console/gallery-images/2021_05_03_11_04_54weddingjewellery.jpg&square=300" alt="abcd" /></a> -->
+									<a href="weddingdirectory?text=Jewellery"><img src="https://matrimonysoftware.in/console/gallery-images/2021_05_03_11_04_54weddingjewellery.jpg" alt="abcd" /></a>
+								</div>
+								<!-- Content Column -->
+								<div class="lower-content">
+									<h4><a href="weddingdirectory?text=Jewellery">Jewellery</a></h4>
+									
+								</div>
+							</div>
+						</div>
+							 						<!-- Add Block Two -->
+						<div class="add-block-two col-lg-3 col-md-12 col-sm-12">
+							<div class="">
+								<div class="image">
+									
+									<!-- <a href="weddingdirectory?text=All"><img src="https://matrimonysoftware.in/photoprocess.php?image=console/gallery-images/&square=300" alt="abcd" /></a> -->
+									<a href="weddingdirectory?text=All"><img src="https://matrimonysoftware.in/console/gallery-images/" alt="abcd" /></a>
+								</div>
+								<!-- Content Column -->
+								<div class="lower-content">
+									<h4><a href="weddingdirectory?text=All">All</a></h4>
+									
+								</div>
+							</div>
+						</div>
+							 						<!-- Add Block Two -->
+						
+										
+						
+					</div>
+				</div>
+				
+			
+					
+						
+					</div>
+				</div>
+				
+			</div>
+				
+		</div>
+	</section>
+	<!-- End Advertise Section Three -->
+	
+	<!-- Process Section -->
+	<section class="process-section">
+		<div class="auto-container">
+			<!-- Upper Section -->
+			<div class="upper-section">
+				<div class="row clearfix">
+					<!-- Image Column -->
+					<div class="image-column col-lg-5 col-md-12 col-sm-12">
+						<div class="image">
+							<img src="images/resource/speaker.png" alt="" />
+						</div>
+					</div>
+					<!-- Content Column -->
+					<div class="content-column col-lg-7 col-md-12 col-sm-12">
+						<div class="inner-column">
+							<div class="title">PROCESS</div>
+							<h2>How to work</h2>
+							<div class="text">
+								<p>3 easy steps to make your wedding memorable</p>
+								<!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</p> -->
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Lower Section -->
+			<div class="lower-section">
+				<div class="row clearfix">
+					
+					<!-- Process Block -->
+					<div class="process-block col-lg-4 col-md-6 col-sm-12">
+						<div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+							<div class="number">1</div>
+							<div class="circle-layer"></div>
+							<h4>Browse Vendor</h4>
+							<div class="text">Browse over 10000+ vendors across categories & ratings.</div>
+						</div>
+					</div>
+					
+					<!-- Process Block -->
+					<div class="process-block col-lg-4 col-md-6 col-sm-12">
+						<div class="inner-box wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
+							<div class="number">2</div>
+							<div class="circle-layer"></div>
+							<h4>Request Quote</h4>
+							<div class="text">Ask quote from multiple vendors to get competitive prices. </div>
+						</div>
+					</div>
+					
+					<!-- Process Block -->
+					<div class="process-block col-lg-4 col-md-6 col-sm-12">
+						<div class="inner-box wow fadeInLeft" data-wow-delay="400ms" data-wow-duration="1500ms">
+							<div class="number">3</div>
+							<div class="circle-layer"></div>
+							<h4>Book a Vendor</h4>
+							<div class="text">Select the best suited vendor for your wedding. </div>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- End Process Section -->
+		<section class="contact-form-section">
+		<div class="auto-container">
+			<div class="row clearfix">
+				
+				<!-- Info Column -->
+				<div class="info-column col-lg-6 col-md-12 col-sm-12">
+					<div class="inner-column">
+						<div class="title">Contact</div>
+						<h3>We`re here to Help You</h3>
+						<div class="text">Labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</div>
+						<div class="image">
+							<img src="images/resource/contact.png" alt="" />
+						</div>
+					</div>
+				</div>
+				
+				<!-- Form Column -->
+				<div class="form-column col-lg-6 col-md-12 col-sm-12">
+					<div class="inner-column">
+						
+						<!-- Contact Form -->
+						<div class="contact-form">
+								
+							<!-- Contact Form -->
+							<form method="post" action="sendemail" id="contact-form">
+
+								<div class="form-group">
+									<textarea class="darma" name="Message" placeholder="Type Your Message" required></textarea>
+								</div>
+							
+								<div class="form-group">
+									<input type="text" name="Subject" placeholder="Subject" required>
+								</div>
+								
+								<div class="form-group">
+									<input type="text" name="fname" placeholder="Name" required>
+								</div>
+								
+								<div class="form-group">
+									<input type="email" name="Email" placeholder="Email" required>
+								</div>
+								
+								
+								<div class="form-group text-right">
+									<button class="theme-btn btn-style-one" type="submit" name="submit"><span class="txt">Submit</span></button>
+								</div>
+
+							</form>
+								
+						</div>
+						<!-- End Contact Form -->
+						
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</section>
+	
+	
+	<!-- Call To Action Section -->
+	<section class="call-to-action-section">
+		<div class="auto-container">
+			<div class="inner-container">
+				<div class="row clearfix">
+					
+					<!-- Title Column -->
+					<div class="title-column col-lg-7 col-md-12 col-sm-12">
+						<div class="inner-column">
+							<h2>Our Official Matrimonial site matrimonysoftware.in</h2>
+							<div class="text">matrimonysoftware.in is the growing matrimonial services in INDIA, an initiative taken by Readymatrimonial.in.</div>
+						</div>
+					</div>
+					
+					<!-- Button Column -->
+					<div class="button-column col-lg-5 col-md-12 col-sm-12">
+						<div class="inner-column">
+							<a href="contact" class="join-btn theme-btn">Register Today</a>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- End Call To Action Section -->
+	
+	<!-- Clients Section -->
+	<section class="clients-section margin-top">
+		<div class="auto-container">
+			<!-- Sec Title -->
+			<div class="sec-title centered">
+				<h3>Need Help? Call Us: +91 7776938444</h3>
+			</div>
+		</div>
+	</section>
+	<!-- End Clients Section -->
+	
+	<!-- Cell Section -->
+	<section class="cell-section">
+		<div class="auto-container">
+			<div class="sec-title centered">
+				<h2>Do you have something to sell?</h2>
+				<div class="text">This is where businesses in Bangladesh trade, numerous business and industry services offered <br> to trade and consumers.</div>
+			</div>
+			<a href="register" class="theme-btn btn-style-one"><span class="txt">Submit on ad</span></a>
+		</div>
+	</section>
+	<!-- End Cell Section -->
+	
+	<!-- Main Footer -->
+   <footer class="main-footer">
+		<div class="auto-container">
+			
+			<!-- Upper Box -->
+			<div class="upper-box">
+				<div class="row clearfix">
+				
+					<!-- Logo Column -->
+					<div class="logo-column col-lg-6 col-md-6 col-sm-12">
+						<div class="logo">
+							<a href="index"><img src="../images/logo.png" alt="" /></a>
+						</div>
+						
+					</div>
+					
+					<!-- Form Column -->
+					
+					
+				</div>
+			</div>
+			
+        	<!--Widgets Section-->
+            <div class="widgets-section">
+            	<div class="row clearfix">
+                	
+                    <!-- Big Column -->
+                    <div class="big-column col-lg-6 col-md-12 col-sm-12">
+                        <div class="row clearfix">
+							
+							<!-- Footer Column -->
+                            <div class="footer-column col-lg-6 col-md-6 col-sm-12">
+                                <div class="footer-widget contact-widget">
+									<h5>Contact</h5>
+									<ul class="contact-list">
+										<li>Tel: + 91 7776938444 <br> Mail: info@matrimonysoftware.in</li>
+										<li>Add: Sangli, Maharashtra (INDIA)</li>
+									</ul>
+								</div>
+							</div>
+							
+							<!-- Footer Column -->
+                            <div class="footer-column col-lg-6 col-md-6 col-sm-12">
+                                <div class="footer-widget links-widget">
+									<h5>Popular Think</h5>
+									<ul class="links">
+										<li><a href="aboutus">Abou Us</a></li>
+										<li><a href="terms">User Terms</a></li>
+										<li><a href="contact">Contact Us</a></li>
+										
+									</ul>
+								</div>
+							</div>
+							
+						</div>
+					</div>
+					
+					<!-- Big Column -->
+                    <div class="big-column col-lg-6 col-md-12 col-sm-12">
+                        <div class="row clearfix">
+							
+							<!-- Footer Column -->
+                            <div class="footer-column col-lg-6 col-md-6 col-sm-12">
+                                <div class="footer-widget links-widget">
+									<h5>Our Searches</h5>
+									<ul class="links">
+										<li><a href="search_result1?cat=Wedding Photographer">Wedding Photographer</a></li>
+										<li><a href="search_result1?cat=Beauty and Makup">Beauty and Makup</a></li>
+										<li><a href="search_result1?cat=Wedding Decorators">Wedding Decorators</a></li>
+										
+									</ul>
+								</div>
+							</div>
+							
+							<!-- Footer Column -->
+                            <div class="footer-column col-lg-6 col-md-6 col-sm-12">
+                                <div class="footer-widget links-widget">
+									<h5>Ready Matrimonial</h5>
+									<ul class="links">
+										<li><a href="https://matrimonysoftware.in/signup">Register</a></li>
+										<li><a href="https://matrimonysoftware.in/login">Login</a></li>
+										<li><a href="https://matrimonysoftware.in/my_offer">Membership</a></li>
+										
+									</ul>
+								</div>
+							</div>
+							
+						</div>
+					</div>
+					
+				</div>
+			</div>
+			
+			<!-- Footer Bottom -->
+			<div class="footer-bottom">
+				<div class="clearfix">
+					<div class="pull-left">
+						<div class="copyright">&copy; 2021 All Rights Reserved <a href="https://readymatrimonial.in/">readymatrimonial.in</a> Powered by: <a href="https://readymatrimonial.in/">Ready Matrimonial</a></div>
+					</div>
+					<div class="pull-right">
+						<div class="social-box">
+							<a href="https://www.facebook.com/readymatrimonial.in" class="fa fa-facebook"></a>
+							<a href="https://twitter.com/readymatrimonia" class="fa fa-twitter"></a>
+							<a href="https://www.instagram.com/readymatrimonial/" class="fa fa-instagram"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</footer>
+	</div>
+<!--End pagewrapper-->
+
+<!--Scroll to top-->
+<div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-arrow-circle-up"></span></div>
+
+<script src="js/jquery.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="js/jquery.fancybox.js"></script>
+<script src="js/appear.js"></script>
+<script src="js/owl.js"></script>
+<script src="js/wow.js"></script>
+<script src="js/jquery-ui.js"></script>
+<script src="js/script.js"></script>
+
+</body>
+
+</html>

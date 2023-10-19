@@ -1,0 +1,544 @@
+
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from gico.io/onoo/ads-detail.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 19 Oct 2020 03:29:27 GMT -->
+<head>
+<meta charset="utf-8">
+<title>Wedding Service Details</title>
+<!-- Stylesheets -->
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="css/main.css" rel="stylesheet">
+<link href="css/responsive.css" rel="stylesheet">
+
+<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+<link rel="icon" href="images/favicon.png" type="image/x-icon">
+
+<!-- Responsive -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+
+<style>
+.listing-page .image-column .thumbs-carousel {
+    padding: 0px 0px;
+    box-shadow: 0px 0px 15px rgb(0 0 0 / 10%);
+}
+</style>
+<script>
+function isNumber(evt) {
+    evt = (evt) ? evt : window.event;
+    var charCode = (evt.which) ? evt.which : evt.keyCode;
+    if (charCode > 31 && (charCode < 48 || charCode > 57)) {
+        return false;
+    }
+    return true;
+}
+</script>
+</head>
+
+<body>
+
+<div class="page-wrapper">
+ 	
+    <!-- Preloader -->
+    <div class="preloader"></div>
+ 	
+    <!-- Main Header-->
+    <!-- Main Header-->
+     <header class="main-header header-style-three">
+    	
+    	<!--Header-Upper-->
+        <div class="header-upper">
+        	<div class="auto-container">
+            	<div class="clearfix">
+                	
+                		<div class="pull-left logo-box">
+                    	<div class="logo"><a href="index"><img src="../images/logo-2.png" alt="abcd" title=""></a></div>
+                    </div>
+                   	
+                   	
+					<!-- Submit Add -->
+					
+                   	<div class="nav-outer clearfix">
+						<!-- Mobile Navigation Toggler -->
+                        <div class="mobile-nav-toggler"><span class="icon flaticon-menu"></span></div>
+						<!-- Main Menu -->
+						<nav class="main-menu navbar-expand-md">
+							<div class="navbar-header">
+								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+								</button>
+							</div>
+
+							<div class="navbar-collapse show collapse clearfix" id="navbarSupportedContent">
+								<ul class="navigation clearfix">
+									<li><a href="index">Home</a></li>
+									<li class="dropdown"><a href="#">About us</a>
+									<ul>									        
+									         <li><a href="aboutus">About Us</a></li>
+											<li><a href="terms">User Terms</a></li>
+											<li><a href="contact">Contact US</a></li>
+														
+											
+										</ul>
+									</li>
+									<li class="dropdown"><a href="#">Vendor</a>
+										<ul>
+										 										<li>
+										<a href="search_result1?cat=Wedding Planner">Wedding Planner</a></li>
+										    										<li>
+										<a href="search_result1?cat=Beauty and Makup">Beauty and Makup</a></li>
+										    										<li>
+										<a href="search_result1?cat=Wedding Venues">Wedding Venues</a></li>
+										    										<li>
+										<a href="search_result1?cat=Mehndi Artist">Mehndi Artist</a></li>
+										    										<li>
+										<a href="search_result1?cat=Caterers                     ">Caterers                     </a></li>
+										    										<li>
+										<a href="search_result1?cat=Music">Music</a></li>
+										    										<li>
+										<a href="search_result1?cat=Hotel Accommodation">Hotel Accommodation</a></li>
+										    										<li>
+										<a href="search_result1?cat=Honeymoon Package">Honeymoon Package</a></li>
+										    										<li>
+										<a href="search_result1?cat=Wedding Prist">Wedding Prist</a></li>
+										    										<li>
+										<a href="search_result1?cat=Wedding Cards">Wedding Cards</a></li>
+										    										<li>
+										<a href="search_result1?cat=Jewellery">Jewellery</a></li>
+										    										<li>
+										<a href="search_result1?cat=Wedding Photographer">Wedding Photographer</a></li>
+										    										<li>
+										<a href="search_result1?cat=Rangoli ">Rangoli </a></li>
+										    										<li>
+										<a href="search_result1?cat=Biodata">Biodata</a></li>
+										    											
+											
+										</ul>
+									</li>
+								
+									<li><a href="contact">Contact us</a></li>
+									
+								</ul>
+							</div>
+							
+						</nav>
+						
+						<!-- Outer Box -->
+						<div class="outer-box">
+							<ul class="login-info">
+								<li><a href="register">Register </a></li>
+								<li><a href="login"><span class="icon flaticon-user-3"></span>Login</a></li>
+							</ul>
+						</div>
+						
+					</div>
+                   
+                </div>
+            </div>
+        </div>
+        <!--End Header Upper-->
+        
+		<!-- Mobile Menu  -->
+        <div class="mobile-menu">
+            <div class="menu-backdrop"></div>
+            <div class="close-btn"><span class="icon fa fa-remove"></span></div>
+            
+            <nav class="menu-box">
+                <div class="nav-logo"><a href="index.html"><img src="images/logo-2.png" alt="" title=""></a></div>
+                <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
+				<a href="register" class="btn-style-one ml-2 mt-2"><span class="btn-title">Register </span> </a>
+				<a href="login" class="btn-style-one ml-2 mt-2"><span class="btn-title">Login </span></a>
+		   </nav>
+        </div><!-- End Mobile Menu -->
+		
+    </header>
+    <!--End Main Header -->	<!--Page Title-->
+											 
+    <section class="page-title style-two" style="background-image:url(images/background/7.jpg)">
+    	<div class="auto-container">
+			<h2 style="color:#FFFFFF">Aashray </h2>
+        </div>
+        </div>
+    </section>
+    <!--End Page Title-->
+	
+	<!-- Product Form Section -->
+	<section class="product-form-section">
+		<div class="auto-container">
+			<div class="inner-container margin-top">
+				
+				<!-- Default Form -->
+				<div class="default-form">
+					<form method="post" action="search_result">
+						<div class="row clearfix">
+							
+							<!-- Form Group -->
+							<div class="form-group col-lg-3 col-md-6 col-sm-12">
+								<select class="custom-select-box" name="wedsloction">
+									 <option value="" selected>Any</option>
+																				   <option value="Delhi">Delhi</option>
+										   										   <option value="Noida">Noida</option>
+										   										   <option value="Gurgoan">Gurgoan</option>
+										   										   <option value="Pune">Pune</option>
+										   										   <option value="Mumbai">Mumbai</option>
+										   										   <option value="Sangli">Sangli</option>
+										   										   <option value="Kolhapur">Kolhapur</option>
+										   										   <option value="Aurangabad">Aurangabad</option>
+										   										   <option value="Nashik">Nashik</option>
+										   										   <option value="Vardha">Vardha</option>
+										   								</select>
+							</div>
+							
+							<div class="form-group col-lg-6 col-md-6 col-sm-12">
+	                              <select class="custom-select-box" name="catagory">
+									 <option value="" selected>Any</option>
+																				   <option value="Wedding Planner">Wedding Planner</option>
+										   										   <option value="Beauty and Makup">Beauty and Makup</option>
+										   										   <option value="Wedding Venues">Wedding Venues</option>
+										   										   <option value="Mehndi Artist">Mehndi Artist</option>
+										   										   <option value="Caterers                     ">Caterers                     </option>
+										   										   <option value="Music">Music</option>
+										   										   <option value="Hotel Accommodation">Hotel Accommodation</option>
+										   										   <option value="Honeymoon Package">Honeymoon Package</option>
+										   										   <option value="Wedding Prist">Wedding Prist</option>
+										   										   <option value="Wedding Cards">Wedding Cards</option>
+										   										   <option value="Jewellery">Jewellery</option>
+										   										   <option value="Wedding Photographer">Wedding Photographer</option>
+										   										   <option value="Rangoli ">Rangoli </option>
+										   										   <option value="Biodata">Biodata</option>
+										   								   </select>
+                            </div>
+							<div class="form-group col-lg-3 col-md-12 col-sm-12">
+								<button type="submit" class="theme-btn btn-style-two"><span class="txt">Search</span></button>
+							</div>
+							
+						</div>
+					</form>
+				</div>
+				
+			</div>
+		</div>
+	</section>
+	<!-- End Keyword Section -->
+	
+	<!-- Page Breadcrumbs -->
+	<section class="page-breadcrumbs">
+		<div class="auto-container">
+			<ul class="">
+						
+			</ul>
+		</div>
+	</section>
+	
+	<!-- End Page Breadcrumbs -->
+	
+	<!--Sidebar Page Container-->
+    <div class="sidebar-page-container">
+    	<div class="auto-container">
+							
+			<div class="row clearfix">
+            	
+				<!-- Content Side / Blog Detail -->
+                <div class="content-side col-lg-8 col-md-12 col-sm-12">
+					<div class="listing-deail">
+						
+						<div class="listing-page">
+								
+							<div class="image-column">
+								<div class="carousel-outer">
+		   							 <ul class="image-carousel owl-carousel owl-theme">
+																						<li><a href="gallary/2021_07_20_02_34_06images.jpg" class="lightbox-image" data-fancybox="images" ><img src="photoprocess.php?image=gallary/2021_07_20_02_34_06images.jpg&square=500" alt=""></a></li>
+																					</ul>		
+									 <ul class="thumbs-carousel owl-carousel">
+										  											
+																			    </ul>										
+								</div>
+							</div>
+						</div>
+						
+						<!-- Title Box -->
+						<div class="title-box">
+							<h3>Aashray </h3>
+							<div class="id"> sangli </div>
+							<div class="clearfix">
+								<div class="pull-left">
+									<ul class="title-list">
+										<li>Create ad : <span>20-07-2021</span></li>
+										<!--<li>Viewed : <span>56</span></li>-->
+									</ul>
+								</div>
+								
+							</div>
+						</div>
+						
+						<h3>About Aashray  :</h3>
+						<div class="text">
+							<p>we provide about beauty </p>
+							<div class="title-box">	
+							</div>
+								<div class="title-box">						
+							<h3>Vendor Details</h3>
+							<div class="id"> </div>
+							<div class="clearfix">
+								<div class="pull-left">
+									<ul class="title-list">
+										<li>Contact Person Name : <span>Aasha</span></li>
+										<li>Vendor Address : <span> sangli</span></li>
+										<li>Industry Experience : <span> 1 year</span></li>
+									</ul>
+								</div>
+								
+							</div>
+							</div>
+							
+							
+							
+							
+							
+							
+						</div>
+						
+					</div>
+				</div>
+				
+				<!--Sidebar Side-->
+				
+						<!-- Sidebar Widget -->
+						
+						
+						<!-- Seller Widget -->
+						<div class="sidebar-widget-two seller-widget">
+							<div class="sidebar-title">
+								<h4>Send Enquiry</h4>
+							</div>
+							
+							<!--Login Form-->
+							<div class="styled-form">
+								<form method="post" action="enquiry_submit?id=WD38867">
+									<div class="form-group">
+										<label>Name *</label>
+										<input type="text" name="name" value=""  maxlength="50" placeholder="Your Name" required>
+									</div>
+									<div class="form-group">
+										<label>Email *</label>
+										<input type="email" name="email" value="" maxlength="150" placeholder="Your email" required>
+									</div>
+									
+									<div class="form-group">
+										<label>Mobile No *</label>
+										<input type="text" name="mobile"  maxlength="10" onkeypress="return isNumber(event)" value="" placeholder="Your Mobile" required>
+									</div>
+									<div class="form-group">
+										<label>Message *</label>
+										<textarea placeholder="Type your message" maxlength="150" name="message"></textarea>
+									</div>
+									
+									<input type="submit" name="submit" value="Send Enquiry" class="theme-btn btn-style-two">
+
+								
+								</form>
+							</div>
+							
+						</div>
+						
+						<!-- Social Widget -->
+					
+				
+						
+					</aside>
+				</div>
+				
+			</div>
+		
+	
+	<div class="similar-projects">
+		<div class="auto-container">
+			<h3>Similar Projects</h3>
+			<div class="single-item-carousel owl-carousel owl-theme">
+			
+				<div class="slide">
+					<div class="row clearfix">
+						 							<!-- Add Block Two -->
+						<div class="add-block-two col-lg-3 col-md-12 col-sm-12">
+							<div class="inner-box">
+								<div class="image">
+									<a href="weddingdirectory?text=Beauty and Makup"><div class="sale">Enquiry</div></a>
+									<a href="weddingdirectory?text=Beauty and Makup">
+									<img src="photoprocess.php?image=gallary/2022_09_16_10_34_34images.jpeg&square=500" alt="abcd"  class="image"/></a>
+									</div>
+								<!-- Content Column -->
+								<div class="lower-content">
+							<ul class="post-meta clearfix">
+								<li><a href="#"><span class="fa fa-map-marker"></span> Renuka</a></li>
+								<li><a href="#"><span class="fa fa-tag"></span> Enquiry</a></li>
+							</ul>
+							<h4><a href="#">Beauty and Makup</a></h4>
+							<div class="add-info clearfix">
+								
+								<div class="pull-right">
+									<ul class="info-icons">
+										<li><a href="#" class="fa fa-share"></a></li>
+										<li><a href="#" class="fa fa-heart-o"></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+							</div>
+						</div>
+							 						<!-- Add Block Two -->
+											
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<!-- Similar Projects -->
+	
+	<!-- Cell Section -->
+	<section class="cell-section">
+		<div class="auto-container">
+			<div class="sec-title centered">
+				<h2>Do you have something to sell?</h2>
+				<div class="text">This is where businesses in Bangladesh trade, numerous business and industry services offered <br> to trade and consumers.</div>
+			</div>
+			<a href="register" class="theme-btn btn-style-one"><span class="txt">Submit on ad</span></a>
+		</div>
+	</section>
+	<!-- End Cell Section -->
+</div>	
+	<!-- Main Footer -->
+    <footer class="main-footer">
+		<div class="auto-container">
+			
+			<!-- Upper Box -->
+			<div class="upper-box">
+				<div class="row clearfix">
+				
+					<!-- Logo Column -->
+					<div class="logo-column col-lg-6 col-md-6 col-sm-12">
+						<div class="logo">
+							<a href="index"><img src="../images/logo.png" alt="" /></a>
+						</div>
+						
+					</div>
+					
+					<!-- Form Column -->
+					
+					
+				</div>
+			</div>
+			
+        	<!--Widgets Section-->
+            <div class="widgets-section">
+            	<div class="row clearfix">
+                	
+                    <!-- Big Column -->
+                    <div class="big-column col-lg-6 col-md-12 col-sm-12">
+                        <div class="row clearfix">
+							
+							<!-- Footer Column -->
+                            <div class="footer-column col-lg-6 col-md-6 col-sm-12">
+                                <div class="footer-widget contact-widget">
+									<h5>Contact</h5>
+									<ul class="contact-list">
+										<li>Tel: + 91 7776938444 <br> Mail: info@matrimonysoftware.in</li>
+										<li>Add: Sangli, Maharashtra (INDIA)</li>
+									</ul>
+								</div>
+							</div>
+							
+							<!-- Footer Column -->
+                            <div class="footer-column col-lg-6 col-md-6 col-sm-12">
+                                <div class="footer-widget links-widget">
+									<h5>Popular Think</h5>
+									<ul class="links">
+										<li><a href="aboutus">Abou Us</a></li>
+										<li><a href="terms">User Terms</a></li>
+										<li><a href="contact">Contact Us</a></li>
+										
+									</ul>
+								</div>
+							</div>
+							
+						</div>
+					</div>
+					
+					<!-- Big Column -->
+                    <div class="big-column col-lg-6 col-md-12 col-sm-12">
+                        <div class="row clearfix">
+							
+							<!-- Footer Column -->
+                            <div class="footer-column col-lg-6 col-md-6 col-sm-12">
+                                <div class="footer-widget links-widget">
+									<h5>Our Searches</h5>
+									<ul class="links">
+										<li><a href="search_result1?cat=Wedding Photographer">Wedding Photographer</a></li>
+										<li><a href="search_result1?cat=Beauty and Makup">Beauty and Makup</a></li>
+										<li><a href="search_result1?cat=Wedding Decorators">Wedding Decorators</a></li>
+										
+									</ul>
+								</div>
+							</div>
+							
+							<!-- Footer Column -->
+                            <div class="footer-column col-lg-6 col-md-6 col-sm-12">
+                                <div class="footer-widget links-widget">
+									<h5>Ready Matrimonial</h5>
+									<ul class="links">
+										<li><a href="https://matrimonysoftware.in/signup">Register</a></li>
+										<li><a href="https://matrimonysoftware.in/login">Login</a></li>
+										<li><a href="https://matrimonysoftware.in/my_offer">Membership</a></li>
+										
+									</ul>
+								</div>
+							</div>
+							
+						</div>
+					</div>
+					
+				</div>
+			</div>
+			
+			<!-- Footer Bottom -->
+			<div class="footer-bottom">
+				<div class="clearfix">
+					<div class="pull-left">
+						<div class="copyright">&copy; 2021 All Rights Reserved <a href="https://readymatrimonial.in/">readymatrimonial.in</a> Powered by: <a href="https://readymatrimonial.in/">Ready Matrimonial</a></div>
+					</div>
+					<div class="pull-right">
+						<div class="social-box">
+							<a href="https://www.facebook.com/readymatrimonial.in" class="fa fa-facebook"></a>
+							<a href="https://twitter.com/readymatrimonia" class="fa fa-twitter"></a>
+							<a href="https://www.instagram.com/readymatrimonial/" class="fa fa-instagram"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</footer>
+	
+<!--End pagewrapper-->
+
+<!--Scroll to top-->
+<div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-arrow-circle-up"></span></div>
+
+<script src="js/jquery.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="js/jquery.fancybox.js"></script>
+<script src="js/appear.js"></script>
+<script src="js/owl.js"></script>
+<script src="js/wow.js"></script>
+<script src="js/jquery-ui.js"></script>
+<script src="js/script.js"></script>
+
+</body>
+
+<!-- Mirrored from gico.io/onoo/ads-detail.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 19 Oct 2020 03:29:32 GMT -->
+</html>

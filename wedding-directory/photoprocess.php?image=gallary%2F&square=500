@@ -1,0 +1,28 @@
+<br />
+<b>Notice</b>:  Undefined variable: im in <b>/home2/infinity/matrimonysoftware.in/wedding-directory/photoprocess.php</b> on line <b>46</b><br />
+<br />
+<b>Warning</b>:  imagesy() expects parameter 1 to be resource, null given in <b>/home2/infinity/matrimonysoftware.in/wedding-directory/photoprocess.php</b> on line <b>46</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: im in <b>/home2/infinity/matrimonysoftware.in/wedding-directory/photoprocess.php</b> on line <b>46</b><br />
+<br />
+<b>Warning</b>:  imagesx() expects parameter 1 to be resource, null given in <b>/home2/infinity/matrimonysoftware.in/wedding-directory/photoprocess.php</b> on line <b>46</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: im in <b>/home2/infinity/matrimonysoftware.in/wedding-directory/photoprocess.php</b> on line <b>59</b><br />
+<br />
+<b>Warning</b>:  imagesx() expects parameter 1 to be resource, null given in <b>/home2/infinity/matrimonysoftware.in/wedding-directory/photoprocess.php</b> on line <b>59</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: im in <b>/home2/infinity/matrimonysoftware.in/wedding-directory/photoprocess.php</b> on line <b>60</b><br />
+<br />
+<b>Warning</b>:  imagesy() expects parameter 1 to be resource, null given in <b>/home2/infinity/matrimonysoftware.in/wedding-directory/photoprocess.php</b> on line <b>60</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: im in <b>/home2/infinity/matrimonysoftware.in/wedding-directory/photoprocess.php</b> on line <b>73</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: im in <b>/home2/infinity/matrimonysoftware.in/wedding-directory/photoprocess.php</b> on line <b>73</b><br />
+<br />
+<b>Warning</b>:  imagesx() expects parameter 1 to be resource, null given in <b>/home2/infinity/matrimonysoftware.in/wedding-directory/photoprocess.php</b> on line <b>73</b><br />
+<br />
+<b>Notice</b>:  Undefined variable: im in <b>/home2/infinity/matrimonysoftware.in/wedding-directory/photoprocess.php</b> on line <b>73</b><br />
+<br />
+<b>Warning</b>:  imagesy() expects parameter 1 to be resource, null given in <b>/home2/infinity/matrimonysoftware.in/wedding-directory/photoprocess.php</b> on line <b>73</b><br />
+<br />
+<b>Warning</b>:  imagecopyresampled() expects parameter 2 to be resource, null given in <b>/home2/infinity/matrimonysoftware.in/wedding-directory/photoprocess.php</b> on line <b>73</b><br />
